@@ -14,7 +14,9 @@ Once logged in, users can contribute to the closet by filling out a form to crea
 
 
 
-<img width="1241" alt="Screen Shot 2022-11-22 at 1 25 05 PM" src="https://user-images.githubusercontent.com/108439652/203392492-a850b852-0a49-4475-af75-244cdab602da.png">Login Required Page
+<img width="1241" alt="Screen Shot 2022-11-22 at 1 25 05 PM" src="https://user-images.githubusercontent.com/108439652/203392492-a850b852-0a49-4475-af75-244cdab602da.png"><p align="center">
+  Login Required Page
+</p>
 
 <img width="1280" alt="Screen Shot 2022-11-22 at 1 20 43 PM" src="https://user-images.githubusercontent.com/108439652/203392511-2211b378-d6ec-49aa-830c-ec59553934ae.png">
 <img width="1280" alt="Screen Shot 2022-11-22 at 1 21 09 PM" src="https://user-images.githubusercontent.com/108439652/203392521-6ef7802d-e91c-4ea4-a74e-d7f77c350d84.png">
