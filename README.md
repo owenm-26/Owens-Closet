@@ -1,7 +1,7 @@
 # Owens-Closet
 Web app that uses firebase for both user-authentication and a database for the client to add clothing items to.
 
-## Backend Functionalities
+## **Backend Functionalities**
 
 ###### User Authentication
 Uses Firebase to set differing permissions for viewers of page.  If client is not logged in, they must do so or sign up to be able to view the contents of the closet.  In the future I hope to make a more correct version of the 'contributions' characteristic of the profile page to represent not just contributions made that session, but all contributions ever made.
